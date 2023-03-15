@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+.idea/
+
+# IntelliJ
+out/
+
+.classpath
+.project
+.settings
+.gitignore
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
+*.xml
